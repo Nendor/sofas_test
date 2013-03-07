@@ -25,4 +25,8 @@ public class ClassA {
 	public String publicStringMethodWithParams(boolean b, int i, String s){
 		return s;
 	}
+	
+	public void newMethod1(){
+		
+	}
 }
