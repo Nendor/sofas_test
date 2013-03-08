@@ -7,7 +7,8 @@ public class ClassA {
 	}
 	
 	public void publicVoidMethod1(){
-		
+		newMethod1();
+		publicBooleanMethod2();
 	}
 	
 	public boolean publicBooleanMethod2(){
