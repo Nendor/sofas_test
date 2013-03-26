@@ -3,7 +3,7 @@ package packageA;
 public class ClassA {
 	
 	public ClassA(){
-		
+		//Test
 	}
 	
 	public void publicVoidMethod1(){
